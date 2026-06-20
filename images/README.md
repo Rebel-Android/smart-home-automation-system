@@ -2,12 +2,12 @@
 
 ### Main Control Cabinet
 
-![Main Control Cabinet](images/power-and-control-cabinet.jpg)
+![Main Control Cabinet](power-and-control-cabinet.jpg)
 
 ### Internal Layout
 
-![Internal Layout](images/control-cabinet-detail.jpg)
+![Internal Layout](control-cabinet-detail.jpg)
 
 ### Controller Stack
 
-![Controller Stack](images/SSR-and-controller-stack.jpg)
+![Controller Stack](SSR-and-controller-stack.jpg)
