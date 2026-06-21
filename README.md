@@ -40,6 +40,23 @@ All field devices are connected to a central control cabinet. Wireless sensors a
 
 The infrastructure was designed to allow future cable additions and modifications without major reconstruction work.
 
+## Functional Architecture
+
+The system follows a two-layer architecture. The Arduino-based controller handles real-time interaction with sensors and actuators, processes input signals, and executes automation logic. Operational data is then transmitted to the Orange Pi server, which provides data storage, higher-level services, and user access through a web interface and Telegram bot.
+
+   Sensors, switchers, buttons, reed switchers 
+                       │
+                       ▼
+                  Arduino Mega
+                       │ Serial
+                       ▼
+               Orange Pi Zero 2
+                       │
+Local area network ┌───┴───┐ Internet
+                   ▼       ▼
+                  Web   Telegram
+
+
 ## Technology Stack
 
 ### Hardware
