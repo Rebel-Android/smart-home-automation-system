@@ -20,21 +20,10 @@ This separation allows the automation layer to remain operational independently 
 
 The system was designed according to the following engineering principles:
 
-Scalability
-
-The architecture should provide sufficient computational and hardware resources for future expansion, feature additions, and integration of new devices.
-
-Reliability
-
-The system should maintain stable operation under long-term continuous use while remaining serviceable and fault-tolerant.
-
-Simplicity
-
-The architecture should avoid unnecessary complexity while providing all functionality required by the project.
-
-Standardization
-
-Whenever possible, commonly available and standardized components should be used to simplify maintenance, replacement, and future upgrades.
+* **Scalability** - the architecture should provide sufficient computational and hardware resources for future expansion, feature additions, and integration of new devices.
+* **Reliability** – the system should maintain stable operation under long-term continuous use while remaining serviceable and fault-tolerant.
+* **Simplicity** – the architecture should avoid unnecessary complexity while providing all functionality required by the project.
+* **Standardization** – whenever possible, commonly available and standardized components should be used to simplify maintenance, replacement, and future upgrades.
 
 ## Control Layers
 
@@ -43,9 +32,9 @@ Whenever possible, commonly available and standardized components should be used
 The low-level control layer is implemented using an Arduino Mega (Pro Mini version).
 
 <p align="center">
-  <img src="images/Arduino-Mega-Pro-(Mini)-1.jpg" width="150">
-  <img src="images/Arduino-Mega-Pro-(Mini)-2.jpg" width="150">
-  <img src="images/Arduino-Mega-Pro-(Mini)-3.jpg" width="150">
+  <img src="images/Arduino-Mega-Pro-(Mini)-1.jpg" width="350">
+  <img src="images/Arduino-Mega-Pro-(Mini)-2.jpg" width="350">
+  <img src="images/Arduino-Mega-Pro-(Mini)-3.jpg" width="350">
 </p>
 
 Its primary responsibilities include:
@@ -68,6 +57,10 @@ The high-level control layer is implemented using an Orange Pi Zero 2 single-boa
   <img src="images/Orange-Pi-Zero-2(2).png" width="150">
   <img src="images/Orange-Pi-Zero-2(3).png.jpg" width="150">
 </p>
+
+![High-Level Controller 1](images/Orange-Pi-Zero-2(1))
+![High-Level Controller 2](images/Orange-Pi-Zero-2(2))
+![High-Level Controller 3](images/Orange-Pi-Zero-2(3))
 
 Its primary responsibilities include:
 
