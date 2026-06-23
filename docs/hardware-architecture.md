@@ -33,9 +33,9 @@ The following sections describe the major hardware components used in the system
 ### Arduino Mega Pro Mini (ATmega2560)
 
 <p align="center">
-  <img src="/images/Arduino-Mega-Pro-(Mini)-1.jpg" width="350">
-  <img src="/images/Arduino-Mega-Pro-(Mini)-2.jpg" width="350">
-  <img src="/images/Arduino-Mega-Pro-(Mini)-3.jpg" width="350">
+  <img src="/images/Arduino-Mega-Pro-(Mini)-1.jpg" width="150">
+  <img src="/images/Arduino-Mega-Pro-(Mini)-2.jpg" width="150">
+  <img src="/images/Arduino-Mega-Pro-(Mini)-3.jpg" width="150">
 </p>
 
 #### Role in the System
@@ -69,9 +69,9 @@ Its responsibilities include:
 ### Orange Pi Zero 2
 
 <p align="center">
-  <img src="/images/Orange-Pi-Zero-2(1).png" width="350">
-  <img src="/images/Orange-Pi-Zero-2(2).png" width="350">
-  <img src="/images/Orange-Pi-Zero-2(3).png" width="350">
+  <img src="/images/Orange-Pi-Zero-2(1).png" width="150">
+  <img src="/images/Orange-Pi-Zero-2(2).png" width="150">
+  <img src="/images/Orange-Pi-Zero-2(3).png" width="150">
 </p>
 
 ####  Role in the System
@@ -104,9 +104,9 @@ Its responsibilities include:
 ### ADUM1201 Isolated UART Level Shifter
 
 <p align="center">
-  <img src="/images/ADUM1201-1.jpg" width="350">
-  <img src="/images/ADUM1201-2.jpg" width="350">
-  <img src="/images/ADUM1201-3.jpg" width="350">
+  <img src="/images/ADUM1201-1.jpg" width="100">
+  <img src="/images/ADUM1201-2.jpg" width="100">
+  <img src="/images/ADUM1201-3.jpg" width="200">
 </p>
 
 ####  Role in the System
