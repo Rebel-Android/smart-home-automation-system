@@ -100,9 +100,9 @@ Its responsibilities include:
 
 ### ADUM1201 Isolated UART Level Shifter
 <p align="center">
-  <img src="/images/ADUM1201-1.jpg" height="200">
-  <img src="/images/ADUM1201-2.jpg" height="200">
-  <img src="/images/ADUM1201-3.jpg" height="200">
+  <img src="/images/ADUM1201-1.jpg" height="150">
+  <img src="/images/ADUM1201-2.jpg" height="150">
+  <img src="/images/ADUM1201-3.jpg" height="150">
 </p>
 
 ####  Role in the System
