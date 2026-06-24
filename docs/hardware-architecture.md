@@ -21,7 +21,6 @@ Contains electromechanical relay modules and solid-state relays used for switchi
 Contains voltage and current measurement devices used for diagnostics, protection, and energy monitoring.
 
 ## Hardware Components
-
 <p align="center">
   <img src="/images/start-of-instalation-1.jpg">
   <img src="/images/control-cabinet-overview.jpg">
@@ -42,7 +41,6 @@ The following sections describe the major hardware components used in the system
 The Arduino Mega serves as the low-level real-time controller of the system.
 
 Its responsibilities include:
-
 * Continuous sensor monitoring
 * Processing of push buttons and reed switches
 * Execution of automation scenarios
@@ -78,7 +76,6 @@ Its responsibilities include:
 The Orange Pi Zero 2 provides network connectivity, data storage, and user interaction services.
 
 Its responsibilities include:
-
 * Web server hosting
 * Telegram bot operation
 * Database management
@@ -102,12 +99,14 @@ Its responsibilities include:
 
 
 ### ADUM1201 Isolated UART Level Shifter
-
-<p align="center">
-  <img src="/images/ADUM1201-1.jpg" width="100">
-  <img src="/images/ADUM1201-2.jpg" width="100">
-  <img src="/images/ADUM1201-3.jpg" width="200">
-</p>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px;">
+  <img src="/images/ADUM1201-1.jpg" 
+       style="height: 340px; width: auto; max-width: 100%; object-fit: contain;">
+  <img src="/images/ADUM1201-2.jpg" 
+       style="height: 340px; width: auto; max-width: 100%; object-fit: contain;"> 
+  <img src="/images/ADUM1201-3.jpg" 
+       style="height: 340px; width: auto; max-width: 100%; object-fit: contain;">
+</div> 
 
 ####  Role in the System
 * Provides galvanic isolation and level translation between the 5 V Arduino controller and the 3.3 V Orange Pi UART interface.
@@ -130,7 +129,7 @@ Its responsibilities include:
 ### NEOWAY M590 GSM Module
 
 <p align="center">
-  <img src="/images/Neoway-M590.avif" width="500">
+  <img src="/images/Neoway-M590.avif" width="250">
 </p>
 
 #### Role in the System
@@ -158,9 +157,8 @@ Following the introduction of the web interface and Telegram integration, the GS
 ## Environmental Sensors
 
 ### DHT22 Temperature and Humidity Sensors
-
 <p align="center">
-  <img src="/images/DHT-22.jpg" width="500">
+  <img src="/images/DHT-22.jpg" width="250">
 </p>
 
 #### Role in the System
@@ -179,11 +177,12 @@ DHT22 sensors are installed indoors and outdoors for environmental monitoring an
 
 
 ### AHT10 Temperature and Humidity Sensor
-
-<p align="center">
-  <img src="/images/aht10-1.jpg" width="350">
-  <img src="/images/aht10-2.jpg" width="350">
-</p>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px;">
+  <img src="/images/aht10-1.jpg" 
+       style="height: 340px; width: auto; max-width: 100%; object-fit: contain;">
+  <img src="/images/aht10-2.jpg" 
+       style="height: 340px; width: auto; max-width: 100%; object-fit: contain;"> 
+</div> 
 
 #### Role in the System
 The AHT10 sensor monitors the temperature of the 12 V power supply unit and provides thermal protection functionality.
@@ -205,7 +204,7 @@ The AHT10 sensor monitors the temperature of the 12 V power supply unit and prov
 ### ZMPT101B Voltage Sensor
 
 <p align="center">
-  <img src="/images/ZMPT101B.jpg" width="500">
+  <img src="/images/ZMPT101B.jpg" width="250">
 </p>
 
 #### Role in the System
@@ -225,7 +224,7 @@ Used for AC mains voltage monitoring and power-quality analysis.
 ### ACS712 Current Sensor
 
 <p align="center">
-  <img src="/images/ACS712.jpg" width="500">
+  <img src="/images/ACS712.jpg" width="250">
 </p>
 
 #### Role in the System
@@ -275,7 +274,7 @@ Used for switching:
 ### GEYA GSR2-1-40A Solid-State Relay (Zero-Cross)
 
 <p align="center">
-  <img src="/images/GSR2-1-40A.png" width="400">
+  <img src="/images/GSR2-1-40A.png" width="300">
 </p>
 
 #### Role in the System
@@ -312,7 +311,7 @@ Reed switches are used for door and window position monitoring as part of the se
 ### Infrared LED Transmitter
 
 <p align="center">
-  <img src="/images/IR-LED.jpg" width="500">
+  <img src="/images/IR-LED.jpg" width="100">
 </p>
 
 #### Role in the System
