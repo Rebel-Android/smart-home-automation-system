@@ -234,7 +234,7 @@ These interactions demonstrate how climate-control functions are integrated with
 
 ## Security System
 
-###Overview
+### Overview
 
 The security subsystem was one of the primary features implemented in the project.
 
@@ -349,15 +349,15 @@ Several design decisions were made to improve reliability:
 This architecture minimizes the number of potential failure points while maintaining predictable operation.
 
 
-### Ventilation Control
+## Ventilation Control
 
-#### Manual Control
+### Manual Control
 
 The forced ventilation system offers flexible control options and can be operated both locally via mechanical push buttons and remotely via the web interface or Telegram bot.
 
 To toggle ventilation in a specific zone (bathroom, bedroom, or dressing room), press and hold the corresponding mechanical button for 1 second.
 
-#### Automatic Control
+### Automatic Control
 
 The following automatic modes and settings are available in the web interface:
 * Window interlock — prevents ventilation from starting if the window is closed
