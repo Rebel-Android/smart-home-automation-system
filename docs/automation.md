@@ -92,9 +92,17 @@ Allows the user to select a room and individually control all available lighting
 <p align="center">
   <img src="/images/screenshot/Web-interface-switch-panel-manual.jpg" height="350">
 </p>
-<video width="100%" max-width="720px" controls muted loop>
-  <source src="/videos/Web-interface-switch-panel-manual.mp4" type="video/mp4">
+
+<video src="https://github.com/user-attachments/assets/7641a777-f319-4af5-914e-11264a5deeeb" 
+       controls 
+       autoplay 
+       loop 
+       muted 
+       width="100%" 
+       style="max-width: 800px; border-radius: 8px;">
 </video>
+
+https://github.com/user-attachments/assets/7641a777-f319-4af5-914e-11264a5deeeb
 
 A detailed description, screenshots, and demonstration videos are provided in web-interface.md.
 
