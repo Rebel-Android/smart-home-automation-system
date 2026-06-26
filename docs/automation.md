@@ -104,9 +104,8 @@ The Telegram interface largely mirrors the simplified web interface.
 <p align="center">
   <img src="/images/screenshot/Telegram-bot-menu-light-switch.jpg" height="350">
 </p>
-<video width="100%" max-width="720px" controls muted loop>
-  <source src="/videos/Telegram-bot-light-switching.mp4" type="video/mp4">
-</video>
+
+![Web-interface switch panel manual](https://github.com/user-attachments/assets/ef4dc41c-91ad-4bda-af47-0e846677d4b0)
 
 Due to Telegram platform limitations, real-time automatic state synchronization is not available.
 
