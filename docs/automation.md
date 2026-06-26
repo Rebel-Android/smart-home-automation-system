@@ -83,7 +83,7 @@ Provides quick on/off control for the primary lighting group of each room.
   <img src="/images/screenshot/Web-interface-switch-panel-universal-1.jpg" height="400">
 </p>
 
-[▶ Web-interface switch panel simplified](https://github.com/user-attachments/assets/50d1a488-3bcf-4e50-b9de-a359f8701ced)
+[▶ Web-interface switch panel simplified](https://github.com/user-attachments/assets/7c5546d9-9bc2-4213-8bde-598578051641)
 
 
 #### Detailed View
@@ -92,7 +92,7 @@ Allows the user to select a room and individually control all available lighting
   <img src="/images/screenshot/Web-interface-switch-panel-manual.jpg" height="400">
 </p>
 
-[▶ Web-interface switch panel detailed](https://github.com/user-attachments/assets/7641a777-f319-4af5-914e-11264a5deeeb)
+[▶ Web-interface switch panel detailed](https://github.com/user-attachments/assets/085925f3-1514-418d-933f-941a7ab71496)
 
 A detailed description, screenshots, and demonstration videos are provided in web-interface.md.
 
@@ -103,7 +103,7 @@ The Telegram interface largely mirrors the simplified web interface.
   <img src="/images/screenshot/Telegram-bot-menu-light-switch.jpg" height="400">
 </p>
 
-[▶ Web-interface switch panel manual](https://github.com/user-attachments/assets/ef4dc41c-91ad-4bda-af47-0e846677d4b0)
+[▶ Telegram interface switch panel](https://github.com/user-attachments/assets/fc71ae53-0050-4f0a-af96-23f03e0be8ba)
 
 Due to Telegram platform limitations, real-time automatic state synchronization is not available.
 
@@ -159,7 +159,7 @@ The system supports configurable temperature calibration offsets ranging from -3
   <img src="/images/screenshot/Web-interface-prefences-panel-2.jpg" height="400">
 </p>
 
-[▶  Telegram-Bot AC starting](https://github.com/user-attachments/assets/7b981c2d-cbd6-4dc6-bd77-a8ab238fd3db)
+[▶  Telegram-Bot AC starting](https://github.com/user-attachments/assets/35747932-6cdb-4628-bab7-c12732c35367)
 
 Calibration values can be adjusted through the web interface.
 
