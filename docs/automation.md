@@ -83,6 +83,10 @@ Provides quick on/off control for the primary lighting group of each room.
   <img src="/images/screenshot/Web-interface-switch-panel-universal-1.jpg" height="400">
 </p>
 
+<video height="400" max-width="720px" controls muted loop>
+  <source src="https://github.com/user-attachments/assets/7c5546d9-9bc2-4213-8bde-598578051641" type="video/mp4">
+</video>
+
 [▶ Web-interface switch panel simplified](https://github.com/user-attachments/assets/7c5546d9-9bc2-4213-8bde-598578051641)
 
 
