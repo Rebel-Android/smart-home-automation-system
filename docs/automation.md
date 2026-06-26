@@ -83,11 +83,7 @@ Provides quick on/off control for the primary lighting group of each room.
   <img src="/images/screenshot/Web-interface-switch-panel-universal-1.jpg" height="400">
 </p>
 
-<video height="400" max-width="720px" controls muted loop>
-  <source src="https://github.com/user-attachments/assets/7c5546d9-9bc2-4213-8bde-598578051641" type="video/mp4">
-</video>
-
-[▶ Web-interface switch panel simplified](https://github.com/user-attachments/assets/7c5546d9-9bc2-4213-8bde-598578051641)
+![▶ Web-interface switch panel simplified](https://github.com/user-attachments/assets/7c5546d9-9bc2-4213-8bde-598578051641)
 
 
 #### Detailed View
@@ -162,8 +158,6 @@ The system supports configurable temperature calibration offsets ranging from -3
 <p align="center">
   <img src="/images/screenshot/Web-interface-prefences-panel-2.jpg" height="400">
 </p>
-
-[▶  Telegram-Bot AC starting](https://github.com/user-attachments/assets/35747932-6cdb-4628-bab7-c12732c35367)
 
 Calibration values can be adjusted through the web interface.
 
@@ -250,6 +244,8 @@ To optimize memory usage, only four commands were implemented:
 <p align="center">
   <img src="/images/screenshot/Web-interface-prefences-panel-4.jpg" height="400">
 </p>
+
+[▶  Telegram-Bot AC starting](https://github.com/user-attachments/assets/35747932-6cdb-4628-bab7-c12732c35367)
 
 Fan speed selection is performed automatically according to the difference between the current room temperature and the desired setpoint.
 
