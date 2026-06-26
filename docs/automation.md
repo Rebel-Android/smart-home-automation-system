@@ -85,6 +85,14 @@ Provides quick on/off control for the primary lighting group of each room.
 
 ![▶ Web-interface switch panel simplified](https://github.com/user-attachments/assets/7c5546d9-9bc2-4213-8bde-598578051641)
 
+<video src="https://github.com/user-attachments/assets/7c5546d9-9bc2-4213-8bde-598578051641" 
+       controls 
+       muted 
+       loop 
+       width="100%" 
+       style="max-width:720px; border-radius:8px;">
+</video>
+
 
 #### Detailed View
 Allows the user to select a room and individually control all available lighting groups and lighting scenes.
