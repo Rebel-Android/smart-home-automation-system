@@ -83,7 +83,9 @@ Provides quick on/off control for the primary lighting group of each room.
   <img src="/images/screenshot/Web-interface-switch-panel-universal-1.jpg" height="350">
 </p>
 
-https://github.com/Rebel-Android/smart-home-automation-system/blob/main/videos/Web-interface-switch-panel-universal.mp4
+<video width="100%" max-width="720px" controls muted loop>
+  <source src="/videos/Web-interface-switch-panel-universal.mp4" type="video/mp4">
+</video>
 
 #### Detailed View
 Allows the user to select a room and individually control all available lighting groups and lighting scenes.
