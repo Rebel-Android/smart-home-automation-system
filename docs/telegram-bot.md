@@ -66,7 +66,7 @@ For example, if the security system is currently armed, the corresponding button
 
 ---
 
-# Climate Control Menu
+## Climate Control Menu
 
 <p align="center">
   <img src="/images/screenshot/Telegram-bot-menu-climate-control.jpg" height="400">
@@ -89,7 +89,7 @@ Selecting **Refresh** deletes the current message and requests fresh data from t
 
 ---
 
-# Gas Boiler Menu
+### Gas Boiler Menu
 
 <p align="center">
   <img src="/images/screenshot/Telegram-bot-menu-gasboiler-thermostat.jpg" height="400">
@@ -129,7 +129,7 @@ Whenever the boiler is started or stopped, the Arduino controller executes the c
 
 ---
 
-## Air Conditioner Menu
+### Air Conditioner Menu
 
 <p align="center">
   <img src="/images/screenshot/Telegram-bot-menu-AC-thermostat.jpg" height="400">
@@ -259,7 +259,7 @@ When a lighting circuit is active, the corresponding virtual button displays a l
 For simplicity and everyday usability, the Telegram interface controls only the **local lighting** circuits rather than exposing every individual lighting output available through the web interface.
 
 
-## Conclusion
+# Conclusion
 
 The Telegram bot complements the local web interface by providing secure and convenient remote access to the most frequently used smart home functions.
 
