@@ -37,7 +37,7 @@ For example, pressing the apartment doorbell immediately generates a Telegram me
   <img src="/images/screenshot/Telegram-bot-push-notification-doorbell.jpg" height="400">
 </p>
 
-![▶ Web-interface switch panel simplified](https://github.com/user-attachments/assets/d4832d70-9399-4015-901b-4f354dae187b)
+![▶ Telegram bot push-notification](https://github.com/user-attachments/assets/d4832d70-9399-4015-901b-4f354dae187b)
 
 ---
 
@@ -123,7 +123,7 @@ The bot requests a new temperature value, validates the entered data, and report
   <img src="/images/screenshot/Telegram-bot-menu-gasboiler-thermostat-wrong-value.jpg" height="400">
 </p>
 
-![▶ Web-interface switch panel simplified](https://github.com/user-attachments/assets/490d92ca-2ac8-4ce7-a3c8-bc314d4553c4)
+![▶ Telegram bot menu gasboiler thermostat](https://github.com/user-attachments/assets/490d92ca-2ac8-4ce7-a3c8-bc314d4553c4)
 
 Whenever the boiler is started or stopped, the Arduino controller executes the corresponding automation scenario and the system generates an independent push notification through the PHP notification service, confirming successful execution of the requested operation.
 
@@ -135,7 +135,7 @@ Whenever the boiler is started or stopped, the Arduino controller executes the c
   <img src="/images/screenshot/Telegram-bot-menu-AC-thermostat.jpg" height="400">
 </p>
 
-![▶ Web-interface switch panel simplified](https://github.com/user-attachments/assets/518d1a1c-bbf4-4d6d-9296-67c6b0fde1e3)
+![▶ Telegram bot menu AC thermostat](https://github.com/user-attachments/assets/518d1a1c-bbf4-4d6d-9296-67c6b0fde1e3)
 
 The **Air Conditioner** submenu follows the same structure and operating principles as the **Gas Boiler** menu. All displayed information and available commands relate exclusively to the air conditioning system.
 
@@ -194,7 +194,7 @@ The **Security** submenu provides complete information about the current status 
   <img src="/images/screenshot/Telegram-bot-menu-security.jpg" height="400">
 </p>
 
-![▶ Web-interface switch panel simplified](https://github.com/user-attachments/assets/07503845-2d63-445e-8bb7-bff9afcd10c6)
+![▶ Telegram bot menu security](https://github.com/user-attachments/assets/07503845-2d63-445e-8bb7-bff9afcd10c6)
 
 Displayed information includes:
 * Security mode status
@@ -253,8 +253,8 @@ At the bottom of the menu, two standard navigation buttons are always available:
 
 When a lighting circuit is active, the corresponding virtual button displays a light bulb icon together with its label, providing immediate visual feedback.
 
-![▶ Web-interface switch panel simplified](https://github.com/user-attachments/assets/0abbe68e-18c0-45dd-bbd3-0e1a491e325e)
-![▶ Web-interface switch panel simplified](https://github.com/user-attachments/assets/b805f32d-54c1-4595-8d5e-b58f31afc3ad)
+![▶ Telegram bot menu light switch](https://github.com/user-attachments/assets/0abbe68e-18c0-45dd-bbd3-0e1a491e325e)
+![▶ Telegram bot menu relay switch](https://github.com/user-attachments/assets/b805f32d-54c1-4595-8d5e-b58f31afc3ad)
 
 For simplicity and everyday usability, the Telegram interface controls only the **local lighting** circuits rather than exposing every individual lighting output available through the web interface.
 
