@@ -29,7 +29,7 @@ The wireless network provides reliable coverage at the apartment entrance, allow
 
 ## Security Page
 
-![▶ Web-interface switch panel simplified](https://github.com/user-attachments/assets/2a1e025c-6f8e-42c2-952f-84f1f19b82f4)
+![▶ Web-interface Security page](https://github.com/user-attachments/assets/2a1e025c-6f8e-42c2-952f-84f1f19b82f4)
 
 The **Security** page provides the primary controls for operating the apartment's security system.
 <p align="center">
@@ -80,7 +80,7 @@ The main interface contains two operating modes.
 
 The **Universal** tab is intended for everyday operation.
 <p align="center">
-  <img src="/images/screenshot/Web-interface-switch-panel-universal-2.jpg" height="400">
+  <img src="/images/screenshot/Web-interface-switch-panel-universal.jpg" height="400">
 </p>
 It closely mirrors the behavior of the physical wall push buttons and provides access only to the most frequently used local lighting circuits, which covers the vast majority of daily use cases.
 
@@ -115,7 +115,7 @@ To maintain synchronization with the physical installation, the page automatical
 
 ## Settings Page
 
-![▶ Web-interface switch panel simplified](https://github.com/user-attachments/assets/6f2073b5-2c1d-4bf3-be12-194df20a213f)
+![▶ Web-interface Settings Page](https://github.com/user-attachments/assets/6f2073b5-2c1d-4bf3-be12-194df20a213f)
 
 The **Settings** page provides centralized access to all configurable system parameters.
 
