@@ -8,28 +8,28 @@ The control cabinet is organized into several functional layers:
 
 Contains the 5 V power supply, controllers, communication modules, level-shifting circuitry, and sensor power distribution.
 <p align="center">
-  <img src="/images/schematics/02-power-5v.png" width="600">
+  <img src="/images/schematics/02-power-5v.png" width="400">
 </p>
 
 ## Power Distribution Layer 12V
 
 Contains the dedicated 12 V power supply used for LED lighting circuits.
 <p align="center">
-  <img src="/images/schematics/03-power-12v.png" width="600">
+  <img src="/images/schematics/03-power-12v.png" width="400">
 </p>
 
 ## Power Distribution Layer 220V
 
 Contains the dedicated 220 V power supply used for LED lighting circuits and ventilation.
 <p align="center">
-  <img src="/images/schematics/01-power-220v.png" width="600">
+  <img src="/images/schematics/01-power-220v.png" width="400">
 </p>
 
 ## Switching Layer
 
 Contains electromechanical relay modules and solid-state relays used for switching DC and AC loads.
 <p align="center">
-  <img src="/images/schematics/04-outputs.png" width="600">
+  <img src="/images/schematics/04-outputs.png" width="400">
 </p>
 
 ## Energy Monitoring Layer
