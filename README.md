@@ -10,8 +10,8 @@ The project started as a personal initiative to learn low-level automation syste
 
 ### Main Control Cabinet
 
-![Main Control Cabinet (Closed)](images/Control-cabinet-closed.jpg.jpg)
-![Main Control Cabinet](images/power-and-control-cabinet.jpg)
+![Main Control Cabinet (Closed)](/images/Control-cabinet-closed.jpg)
+![Main Control Cabinet](/images/power-and-control-cabinet.jpg)
 
 ## Design Principles
 
