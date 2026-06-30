@@ -83,6 +83,33 @@ The system follows a two-layer architecture. The Arduino-based controller handle
 * Visual Studio Code
 * SSH-based remote administration
 
+# Electrical Documentation
+
+The repository includes complete electrical documentation of the control cabinet.
+
+### Power Distribution
+
+![220V](/images/schematics/01-power-220v.png)
+
+![12V](/images/schematics/02-power-12v.png)
+
+![5V](/images/schematics/03-power-5v.png)
+
+### Controller I/O
+
+![Outputs](/images/schematics/04-outputs.png)
+
+![Inputs](/images/schematics/05-inputs.png)
+
+### Wiring Table
+
+![Wiring](/images/schematics/06-wiring-table.png)
+
+Full printable version:
+
+📄 /docs/schematics/Wire-Diagram.pdf
+
+
 ## Project Status
 
 The system is fully operational and has been running in a real residential environment for several years while continuously receiving upgrades and new functionality.
