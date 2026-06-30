@@ -107,6 +107,14 @@ The Vaillant gas boiler is controlled through a relay output configured as a gal
 
 The NEOWAY M590 industrial GSM module is connected to the regional cellular network and provides alarm notifications via voice calls and SMS messages.
 
+
+## Power Distribution
+
+See the complete wiring diagram below.
+
+![Wiring](/images/schematics/wire-diagram-(schematics).pdf)
+
+
 ## Data Flow
 
 The following examples illustrate how information flows through the system during typical operation.
