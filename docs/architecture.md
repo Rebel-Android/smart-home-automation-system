@@ -114,6 +114,8 @@ See the complete wiring diagram below.
 
 ![Wiring](/images/schematics/wire-diagram-(schematics).pdf)
 
+![Correlation Table](/images/schematics/Correlation-table.pdf)
+
 
 ## Data Flow
 
