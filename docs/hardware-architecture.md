@@ -34,7 +34,7 @@ Contains electromechanical relay modules and solid-state relays used for switchi
 
 ## Monitoring Layer
 
-Contains air temperature & humidity sensors, wall switchers, voltage and current measurement devices used for diagnostics, protection, and energy monitoring.
+Contains air temperature & humidity sensors, wall switchers, reed switchers, voltage and current measurement devices used for diagnostics, protection, and energy monitoring.
 <p align="center">
   <img src="/images/schematics/05-inputs.png" width="400">
 </p>
