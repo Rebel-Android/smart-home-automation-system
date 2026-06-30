@@ -32,9 +32,13 @@ Contains electromechanical relay modules and solid-state relays used for switchi
   <img src="/images/schematics/04-outputs.png" width="400">
 </p>
 
-## Energy Monitoring Layer
+## Monitoring Layer
 
-Contains voltage and current measurement devices used for diagnostics, protection, and energy monitoring.
+Contains air temperature & humidity sensors, wall switchers, voltage and current measurement devices used for diagnostics, protection, and energy monitoring.
+<p align="center">
+  <img src="/images/schematics/05-inputs.png" width="400">
+</p>
+
 
 ## Hardware Components
 <p align="center">
