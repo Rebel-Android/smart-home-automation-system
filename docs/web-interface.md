@@ -70,7 +70,7 @@ Available options include:
 
 ## Lighting Page
 
-![▶ Web-interface switch panel simplified](https://github.com/user-attachments/assets/98d5e2ad-1f59-4b85-a53a-3d53f88106fe)
+![▶ Web-interface switch panel](https://github.com/user-attachments/assets/98d5e2ad-1f59-4b85-a53a-3d53f88106fe)
 
 The **Lighting** page provides manual control of all lighting circuits and ventilation outputs.
 
