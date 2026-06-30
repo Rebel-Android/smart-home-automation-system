@@ -18,7 +18,6 @@ No simulations or demonstrations on a laboratory prototype were used. Every feat
 ![▶ Web-interface switch panel detailed](https://github.com/user-attachments/assets/085925f3-1514-418d-933f-941a7ab71496)
 
 ## Telegram Bot
-![▶ Telegram interface switch panel](https://github.com/user-attachments/assets/fc71ae53-0050-4f0a-af96-23f03e0be8ba)
 ![▶ Telegram bot menu light switch](https://github.com/user-attachments/assets/0abbe68e-18c0-45dd-bbd3-0e1a491e325e)
 ![▶ Telegram bot menu gasboiler thermostat](https://github.com/user-attachments/assets/490d92ca-2ac8-4ce7-a3c8-bc314d4553c4)
 ![▶ Telegram bot menu AC thermostat](https://github.com/user-attachments/assets/518d1a1c-bbf4-4d6d-9296-67c6b0fde1e3)
