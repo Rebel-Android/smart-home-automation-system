@@ -8,7 +8,6 @@ $conn = mysqli_connect(
     DB_NAME
 );
 
-
 // Connection checking
 if (!$conn) {
     die("Connection failed: " . mysqli_connect_error());
@@ -28,7 +27,7 @@ mysqli_close($conn);
 
 //2. Message to telegram chat-bot:
 $token = "1234567890:ABCDEFGHIJKLMNOPQRSTUV-ABCDEFGHIJK0";
-$chat_id = 1234567890;
+$chat_id = 0987654321;
 
 $textMessage = "Освітлення у передпокої: ";
 $textMessage = urlencode($textMessage);
